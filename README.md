@@ -6,10 +6,12 @@ The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di
 
 ***
 
+<h3 style="text-align:center"> Android Interface</h3>
+ 
+<br> <br>
 
-<br> 
-<h2> Android Interface<g2>
 
+ 
  <table style="width:10%;">
   <tr >
     <th>Prompt Message</th>
