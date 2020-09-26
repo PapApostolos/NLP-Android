@@ -9,11 +9,10 @@ The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di
 
 <br> 
 
-
+photos/UserInterface.jpg
 
 
 Prompt Message                                          |  Final Output
 :------------------------------------------------------:|:-------------------------:
-![] (photos/UserInterface.jpg) {:height=30%  width=30% }  |![](photos/ui_SpOdyssey.jpg ){:height="16px" width="16px"}
-
+ <img src="photos/UserInterface.jpg" width="275" height="550" /> | <img src="photos/ui_SpOdyssey.jpg" width="273" height="570" />   
 ***
