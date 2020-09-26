@@ -8,11 +8,19 @@ The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di
 
 
 <br> 
+<h2> Android Interface<g2>
 
-photos/UserInterface.jpg
+ <table style="width:10%;">
+  <tr >
+    <th>Prompt Message</th>
+    <th>Reply</th>
+  </tr>
+  <tr sytle="padding:135px">
+    <td><img src="photos/UserInterface.jpg" width="215" height="420" /></td>
+    <td><img src="photos/ui_SpOdyssey.jpg"width="215" height="420"/></td>
+  </tr>
+
+</table> 
 
 
-Prompt Message                                          |  Final Output
-:------------------------------------------------------:|:-------------------------:
- <img src="photos/UserInterface.jpg" width="275" height="550" /> | <img src="photos/ui_SpOdyssey.jpg" width="273" height="570" />   
 ***
