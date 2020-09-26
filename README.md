@@ -7,7 +7,7 @@ The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di
 ***
 <br> 
 
-<h3 style="text-align:center"> Android Interface</h3>
+> ***Android Interface***
  
 
 
