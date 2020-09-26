@@ -5,19 +5,19 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
+<br> 
 
 <h3 style="text-align:center"> Android Interface</h3>
  
-<br> 
 
 
  
- <table style="width:10%;">
-  <tr >
+ <table  >
+   <tr >
     <th>Prompt Message</th>
     <th>Reply</th>
   </tr>
-  <tr sytle="padding:135px">
+  <tr >
     <td><img src="photos/UserInterface.jpg" width="215" height="420" /></td>
     <td><img src="photos/ui_SpOdyssey.jpg"width="215" height="420"/></td>
   </tr>
