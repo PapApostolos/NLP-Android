@@ -33,3 +33,4 @@ Subsequently, The server sends a response to the client, and the connection is t
 
 ***
 ## **RNN models**
+The performace of the LSTM and GRU models is presented on the following diagrams:
