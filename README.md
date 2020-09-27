@@ -9,9 +9,16 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 > The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
+<h1>Client–Server model</pre></h1>
+
+The user opens a mobile device and passes the input on the prompt frame. Then the server receives the data from the app throw a socket channel and reifies two separate tasks:
+1. Runs a rnn model so as to classify the input text to business, medicine/health, science/technology or entertainment category.
+2. Detect the most significant sentences on the text based on the Term frequency scores. 
+
+Subsequently, sends a response to the client, and the connection is terminated. The reply is displayed to the user. 
 
 
- *<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Interface</pre></h1>*
+ *<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Android Interface</h2>*
  
 
 
