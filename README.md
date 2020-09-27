@@ -11,7 +11,7 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 ***
 <br> 
 
- ***Android Interface***
+ *<h1>Android Interface</h1>*
  
 
 
