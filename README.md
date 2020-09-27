@@ -9,9 +9,9 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 > The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
-<br> 
 
- *<h1>Android Interface</h1>*
+
+ *<h1><pre>       Android Interface</pre></h1>*
  
 
 
