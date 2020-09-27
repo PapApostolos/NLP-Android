@@ -11,7 +11,7 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 ***
 ## **Client–Server model**
 
-The user uses a mobile device to pass the text data and the device sends the input to the server throw a socket channel. <br> After, the server has to reify two separate tasks:2. Detect the most significant sentences on the text based on the [Term frequency](https://www.opinosis-analytics.com/knowledge-base/term-frequency-explained/#.X3DU7u1S_BV) scores. 
+The user uses the app to pass the text data to the device and sends the input to the server throw a socket channel. <br> After, the server has to reify two separate tasks:2. Detect the most significant sentences on the text based on the [Term frequency](https://www.opinosis-analytics.com/knowledge-base/term-frequency-explained/#.X3DU7u1S_BV) scores. 
 
 1. Detect the most significant sentences on the text based on the [Term frequency](https://www.opinosis-analytics.com/knowledge-base/term-frequency-explained/#.X3DU7u1S_BV) scores. 
 2. Runs a rnn model to classify the input text to business, medicine, science or entertainment category.
