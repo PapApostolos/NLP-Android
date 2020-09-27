@@ -5,13 +5,13 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 > The project consist of:
 > * A [client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) (android interface/python sever).
 > * and the Recurrent Neural Networks ([RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network)) sequential models.
-
-The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
+>
+> The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
 <br> 
 
-> ***Android Interface***
+ ***Android Interface***
  
 
 
