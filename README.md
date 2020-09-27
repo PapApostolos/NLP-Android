@@ -1,3 +1,33 @@
+
+<table style="width:100%">
+ 
+  <caption> GRU()  LSTM()  </caption>
+
+<tr>
+     <th  colspan="2"> Blue: GRU Red: LSTM</th>
+  </tr>
+
+    
+  <tr>
+    <th>Accuracy</th>
+    <th>Loss</th>
+    <th>Age</th>
+  </tr>
+  
+  
+
+    
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+
+</table>
+
+
+
+
 # NLP-Android App
 
 This Application concerns the development of an Android interface, which in sync with a python server, is able able to categorize natural text in different classes. 
@@ -9,6 +39,9 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 > The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
+
+<br>
+
 ## **Client–Server model**
 
 The user uses the app to pass the text data to the device and sends the input to the server throw a socket channel. <br> After, the server has to reify two separate tasks:
@@ -34,3 +67,9 @@ Subsequently, The server sends a response to the client, and the connection is t
 ***
 ## **RNN models**
 The performace of the LSTM and GRU models is presented on the following diagrams:
+
+
+
+
+
+
