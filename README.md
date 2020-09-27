@@ -1,33 +1,3 @@
-
-<table style="width:100%">
- 
-  <caption> GRU()  LSTM()  </caption>
-
-<tr>
-     <th  colspan="2"> Blue: GRU Red: LSTM</th>
-  </tr>
-
-    
-  <tr>
-    <th>Accuracy</th>
-    <th>Loss</th>
-    <th>Age</th>
-  </tr>
-  
-  
-
-    
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-
-</table>
-
-
-
-
 # NLP-Android App
 
 This Application concerns the development of an Android interface, which in sync with a python server, is able able to categorize natural text in different classes. 
@@ -65,8 +35,20 @@ Subsequently, The server sends a response to the client, and the connection is t
 </table> 
 
 ***
+
 ## **RNN models**
-The performace of the LSTM and GRU models is presented on the following diagrams:
+The performace of the LSTM and GRU models is presented on the following diagrams: <br>
+
+<table style="width:100%">
+<tr>
+   <th  colspan="2">   &nbsp;&nbsp;&nbsp;&nbsp; LSTM(Blue) &nbsp;&nbsp; | &nbsp;&nbsp; GRU(Orange) </th>
+</tr>   
+  <tr>  <th>Accuracy</th> <th>Loss</th>   </tr>
+<tr>
+   <td><img src="photos/epoch_acc.jpg"  width="80%" height="80%"  /></td>
+   <td><img src="photos/epoch_loss.jpg" width="80%" height="80%" /></td>
+</tr>
+</table>
 
 
 
