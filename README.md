@@ -1,8 +1,13 @@
 # NLP-Android App
 
-This Application concerns the development of an Android interface, which in sync with a python server, is able able to categorize natural text in four classes. 
+This Application concerns the development of an Android interface, which in sync with a python server, is able able to categorize natural text in different classes. 
 For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)  and [GRU](https://en.wikipedia.org/wiki/Gated_recurrent_unit) rnn models. <br>
-The project is for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
+The project consist of:
+* Python sever.
+* Android code for the user interface (UI).
+* Recurrent neural network ([RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network)) sequential model.
+<br>
+The above work is part of the final project for the MSc course in deep neural networks ([DSIT](http://dsit.di.uoa.gr/)).
 
 ***
 <br> 
