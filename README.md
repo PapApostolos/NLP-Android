@@ -11,7 +11,7 @@ For categorization are used [LSTM](https://en.wikipedia.org/wiki/Long_short-term
 ***
 ## **Client–Server model**
 
-The user opens a mobile device and passes the input on the prompt frame. Then the server receives the data from the app throw a socket channel and reifies two separate tasks:
+The user uses a mobile device to pass the text data and the device sends the input to the server throw a socket channel.  After, the server has to reify two separate tasks:
 1. Runs a rnn model so as to classify the input text to business, medicine/health, science/technology or entertainment category.
 2. Detect the most significant sentences on the text based on the Term frequency scores. 
 
