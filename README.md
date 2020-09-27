@@ -16,7 +16,7 @@ The user uses the app to pass the text data to the device and sends the input to
 1. Detect the most significant sentences on the text based on the [Term frequency](https://www.opinosis-analytics.com/knowledge-base/term-frequency-explained/#.X3DU7u1S_BV) scores. 
 2. Runs a rnn model to classify the input text to business, medicine, science or entertainment category.
 
-Subsequently, sends a response to the client, and the connection is terminated. <br> The reply is displayed to the user. 
+Subsequently, The server sends a response to the client, and the connection is terminated. The final outpot is displayed to the user. 
 
  
  <table  >
