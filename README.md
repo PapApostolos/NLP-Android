@@ -22,8 +22,6 @@ The user uses the app to pass the text data to the device and sends the input to
 2. Runs a rnn model to classify the input text to business, medicine, science or entertainment category.
 
 Subsequently, The server sends a response to the client, and the connection is terminated. The final output is displayed to the user. 
-
-<br>
  
  <table  >
    <tr >
@@ -44,6 +42,7 @@ Subsequently, The server sends a response to the client, and the connection is t
 ## **RNN models**
 The performace of the LSTM and GRU models is presented on the following diagrams: 
 
+<br>
 
 <table style="width:100%">
 <tr>
