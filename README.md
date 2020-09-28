@@ -23,6 +23,7 @@ The user uses the app to pass the text data to the device and sends the input to
 
 Subsequently, The server sends a response to the client, and the connection is terminated. The final output is displayed to the user. 
 
+<br>
  
  <table  >
    <tr >
